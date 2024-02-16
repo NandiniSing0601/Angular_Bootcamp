@@ -1,0 +1,11 @@
+Angular is a front-end development framework , which is used to develop single-page web applications and websites. Angular has a variety of tools and libraries that provides features such as routing , forms management , client-server communication. Angular is a component based framework.It is developed by google.
+It follows MVC framework.
+It is open-source development platform.
+It uses NPM(Node Package Manager)and CLI.
+We can have multiple versions of angular using "nvm" i.e., node version manager.NVM (Node Version Manager) is a tool used to download, install, manage, and upgrade Node. js versions. It allows the user to maintain multiple versions of Node. Read more about how to use NVM at https://dev.to/patricepeartree/how-to-run-multiple-node-and-angular-versions-simultaneously-3lfj. 
+
+                                           FILE and FOLDER Structure of Angular Projects
+
+1. package.json - This is a very importrant file of our project. This file contains all the important details of our project like , name , version. Also what version of Angular is used in the project , what dependencies it have. Also dependencies of the project , internal or external. What commands will be used to build , test and run our application.
+
+2.node_modules - This folder contains all the libraries (angular libraries , css libraries ,form libraries , routing libraries , etc) required in our project. When we run npm install command , this folder is re-built
